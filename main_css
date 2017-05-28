@@ -1,0 +1,151 @@
+nav
+{
+	background: #ccc;
+	height: 50px
+}
+#banner
+{
+	background: #777;
+	height: 700px;
+}
+nav ul
+{
+	margin: 0;
+	list-style: none;
+}
+nav ul li
+{
+	display: inline-block;
+	line-height: 50px;
+	float: right;
+}
+nav ul li a
+{
+	line-height: 50px;
+	text-decoration: none;
+	padding: 20px;
+}
+nav ul li.home
+{
+	float: left;
+}
+#banner .inner
+{
+	max-width: 300px;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	top: 160px;
+
+}
+#banner .inner h1
+{
+	font-size: 50px;
+	padding: 10px;
+}
+button
+{
+	border: none;
+	background: #333;
+	color: #eee;
+	padding: 10px;
+	margin: 10px;
+}
+.wrapper h1
+{
+	font-size: 30px;
+	padding: 20px;
+}
+.hr
+{
+	height: 2px;
+	background: #078494;
+	width: 60%;
+	margin: 0 auto 20px auto;
+}
+.green
+{	
+	background: #089DB0;
+	text-align: center;
+	color: #fff;
+	padding: 100px;
+}
+.wrapper
+{
+	width: 1080px;
+	margin: 0 auto;
+	height: 700px;
+}
+.green .icongroup .icon
+{	
+	display: inline-block;
+	width: 120px;
+	height: 120px;
+	background: #eee;
+	margin: 20px;
+}
+.gray
+{
+	background: #252F34;
+}
+.articlepreview
+{
+	font-size: 0;
+}
+.articlepreview .img
+{
+	width: 60%;
+
+}
+.img img
+{
+	width: 100%;
+}
+.text
+{
+	width: 40%;
+	color: #fff;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
+.text h1
+{
+	font-size: 30px;
+}
+.text p
+{
+	width: 80%;
+	font-size: 16px;
+}
+.articlepreview > div
+{
+	float: left;
+}
+.articlepreview:after
+{
+	content: '';
+	display: block;
+	clear: both;
+}
+.purple
+{
+	background: #3F3965;
+	color: #fff;
+	padding: 80px;
+}
+.clear:after
+{
+	content: '';
+	display: block;
+	clear: both;
+}
+.card
+{
+	float: left;
+	width: 50%;
+	min-height: 300px;
+	padding: 30px;
+	
+}
+
