@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="CSS/main.CSS">
+	<link rel="stylesheet" href="CSS/reset.CSS">
+</head>
+<body>
+	<header>
+		<nav>
+		<ul>
+			<li class="home"><a href="#">徐世雄</a></li>
+			<li><a href="#">链接2</a></li>
+			<li><a href="#">链接3</a></li>
+			<li><a href="#">链接4</a></li>
+		</ul>
+	</nav>
+	<div id="banner">
+		<div class="inner">
+			<h1>徐世雄</h1>
+			<p>Lorem ipsum dolor sit amet, e ratione odio doloribus nulla nisi aperiam hic fugit cumque.</p>
+			<button type="button">
+			 来信砍
+			</button>
+		</div>
+	</div>
+	</header>
+	<div class="content">
+		<section class="green">
+			<div class="wrapper">
+				<h1>一个标题</h1>
+				<div class="hr"></div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+			</div>
+			<div class="icongroup">
+				<span class="icon">item1</span>
+				<span class="icon">item2</span>
+				<span class="icon">item3</span>
+			</div>
+		</section>
+		<section class="gray">
+			<div class="articlepreview">
+				<div class="img">
+					<img src="CSS/pic02.png" alt="">
+				</div>
+				<div class="text">
+					<h1>hello xushixiong</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil sint illum voluptas ex dignissimos dolores, architecto, in eius tempore magni natus et. Voluptatum eaque consectetur, obcaecati nemo tempore recusandae hic.
+					</p>
+				</div>
+			<div class="articlepreview">
+				
+				<div class="text">
+					<h1>hello xushixiong</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil sint illum voluptas ex dignissimos dolores, architecto, in eius tempore magni natus et. Voluptatum eaque consectetur, obcaecati nemo tempore recusandae hic.</p>
+				</div>
+				<div class="img">
+					<img src="CSS/pic02.png" alt="">
+				</div>
+			</div>
+			<div class="articlepreview">
+				<div class="img">
+					<img src="CSS/pic02.png" alt="">
+				</div>
+				<div class="text">
+					<h1>hello xushixiong</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil sint illum voluptas ex dignissimos dolores, architecto, in eius tempore magni natus et. Voluptatum eaque consectetur, obcaecati nemo tempore recusandae hic.</p>
+				</div>
+			</div>
+		</section>
+		<section class="purple">
+			<div class="wrapper">
+				<div class="heading-wrapper">
+					<h2>又是一个标题</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora commodi fugit tempore ut consequuntur veritatis consectetur odit, deleniti, dolores ipsum quisquam. Itaque inventore error dolorem qui rem, ex modi aspernatur.</p>
+				</div>
+				<div class="card-group clear">
+					<div class="card">
+						<h2>是一个标题</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus eius sed, dolorem, adipisci vitae voluptas, incidunt sint non eligendi nesciunt eveniet tempore quos molestiae fuga dolor, saepe harum! Minima, officia.</p>
+					</div>
+					<div class="card">
+						<h2>是一个标题</h2>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, totam debitis eos officia, quae hic molestias possimus aperiam suscipit quibusdam omnis laboriosam beatae reiciendis id? Recusandae reprehenderit harum culpa id.</p>
+					</div
+				</div>
+			</div>
+		</section>
+	</div>
+	<footer></footer>
+</body>
+</html>
